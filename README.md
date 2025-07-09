@@ -14,6 +14,12 @@
 
 - ⚡ Fun fact **I think I'm funny 😉**
 
+- 🌌 Astronomy Enthusiast
+
+Apart from programming, I'm deeply passionate about astronomy and space exploration. I write about fascinating celestial events and cosmic mysteries at [Stellar Illusion](https://stellarillusion.com) — my personal space blog.
+
+🪐 Dive into the universe with me: https://stellarillusion.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman-mathur-am27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-mathur-am27/" height="30" width="40" /></a>
