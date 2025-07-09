@@ -14,11 +14,9 @@
 
 - ⚡ Fun fact **I think I'm funny 😉**
 
-- 🌌 Astronomy Enthusiast
+- 🌌 Apart from programming, I'm deeply passionate about astronoy and space exploration. I write about fascinating celestial events and cosmic mysteries at [Stellar Illusion](https://www.stellarillusion.com) — my personal space blog.
 
-Apart from programming, I'm deeply passionate about astronomy and space exploration. I write about fascinating celestial events and cosmic mysteries at [Stellar Illusion](https://stellarillusion.com) — my personal space blog.
-
-🪐 Dive into the universe with me: https://stellarillusion.com
+🪐 Dive into the universe with me: https://www.stellarillusion.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
